@@ -2,6 +2,6 @@
 Conway's game of life written in .js
 
 TODO
-- boilerplate
-- bootstrap
-- display grid
+- display refresh rate
+- larger game screen
+- performance optimizations
